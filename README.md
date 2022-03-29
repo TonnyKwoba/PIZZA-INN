@@ -8,7 +8,7 @@ Git https clone link: https://github.com/tonny kwoba/Pizza-.git
 # Configuration
 The  website can be opened with any browser but **Google Chrome** is the best browser.
  # Knownbugs
- This website has no bugs but if any present you can access it by clicking this https://github.com/Celinemmbonekerrine4/Pizza-/issues
+ This website has no bugs but if any present you can access it by clicking this https://tonnykwoba.github.io/Pizza-/
  # Access link
  https://github.com/tonny kwoba/Pizza-
  # License
